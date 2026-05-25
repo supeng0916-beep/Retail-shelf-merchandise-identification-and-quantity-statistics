@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>货架识别控制台</title>
+  <link rel="stylesheet" href="/demo/assets/style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand-block">
+        <div class="brand-mark">SI</div>
+        <div>
+          <p class="eyebrow">零售识别平台</p>
+          <h1>货架识别控制台</h1>
+        </div>
+      </div>
+      <nav class="topnav">
+        <button class="nav-link active" data-view="recognitionView">识别中心</button>
+        <button class="nav-link" data-view="skuView">商品管理</button>
+      </nav>
+      <div class="status-cluster">
+        <span class="status-dot" id="statusDot"></span>
+        <span id="statusText">正在检查服务状态...</span>
+        <span id="backendBadge" class="backend-badge"></span>
+      </div>
+    </header>
+
+    <main class="page-frame">
+      <section class="view active" id="recognitionView">
+        <div class="hero-card">
+          <div>
+            <p class="eyebrow">识别中心</p>
+            <h2>上传一张货架图，快速核对当前画面中的 SKU 与数量。</h2>
+            <p class="hero-copy">
+              当前流程基于 YOLO 检测、CLIP 特征匹配与 OCR 辅助判别，适合展示真实货架中的商品识别与计数效果。
+            </p>
+          </div>
+          <div class="hero-pill-group">
+            <span class="pill">YOLO 检测</span>
+            <span class="pill">CLIP 匹配</span>
+            <span class="pill">OCR 辅助</span>
+          </div>
+        </div>
+
+        <div class="grid-two">
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">图片输入</p>
+                <h3>上传货架图片</h3>
+              </div>
+              <div class="mini-metrics">
+                <span>支持 JPEG / PNG / WEBP</span>
+                <span>单张最大 10MB</span>
+              </div>
+            </div>
+
+            <div class="upload-zone" id="detectUploadZone">
+              <div class="upload-graphic"></div>
+              <p class="upload-title" id="detectUploadTitle">拖拽一张货架图片到这里</p>
+              <p class="upload-subtitle" id="detectUploadSubtitle">或点击下方按钮，从本地选择图片</p>
+              <div class="action-row">
+                <button class="btn btn-primary" id="detectChooseBtn" type="button">选择图片</button>
+              </div>
+              <input type="file" id="detectFileInput" accept="image/*" hidden />
+            </div>
+
+            <div class="control-strip">
+              <label class="slider-label" for="confSlider">
+                检测置信度
+                <strong id="confValue">0.25</strong>
+              </label>
+              <input type="range" id="confSlider" min="0.05" max="0.95" step="0.05" value="0.25" />
+              <button class="btn btn-primary" id="detectBtn" type="button" disabled>开始识别</button>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">结果对比</p>
+                <h3>原图与标注结果</h3>
+              </div>
+            </div>
+            <div class="compare-grid" id="detectCompare">
+              <div class="preview-card">
+                <p class="preview-label">原始图片</p>
+                <img id="originalImg" alt="原始图片" />
+              </div>
+              <div class="preview-card">
+                <p class="preview-label">识别结果</p>
+                <img id="annotatedImg" alt="识别结果" />
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <section class="panel hidden" id="resultPanel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">识别报告</p>
+              <h3>识别报告</h3>
+            </div>
+          </div>
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-label">识别总数</span>
+              <strong class="stat-value" id="totalCount">--</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">YOLO 耗时</span>
+              <strong class="stat-value" id="inferenceTime">--</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">特征耗时</span>
+              <strong class="stat-value" id="embeddingTime">--</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">总耗时</span>
+              <strong class="stat-value" id="totalTime">--</strong>
+            </div>
+          </div>
+          <div id="skuTable" class="table-wrap"></div>
+        </section>
+      </section>
+
+      <section class="view" id="skuView">
+        <div class="hero-card">
+          <div>
+            <p class="eyebrow">商品管理</p>
+            <h2>为单个商品上传 3-8 张多角度照片，并将它同步进实时识别库。</h2>
+            <p class="hero-copy">
+              一次上传只对应一个商品 SKU。角度越多、光照越稳定，后续货架识别效果通常越好；如果混入不同商品，系统会阻止发布。
+            </p>
+          </div>
+          <div class="hero-pill-group">
+            <span class="pill">单商品批次</span>
+            <span class="pill">OCR 预填充</span>
+            <span class="pill">后台同步索引</span>
+          </div>
+        </div>
+
+        <div class="grid-two management-grid">
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">批量导入</p>
+                <h3>上传同一商品的多角度照片</h3>
+              </div>
+              <div class="mini-metrics">
+                <span>每批 3-8 张</span>
+                <span>一次仅 1 个商品</span>
+              </div>
+            </div>
+
+            <div class="upload-zone upload-zone-large" id="skuUploadZone">
+              <div class="upload-graphic upload-graphic-stack"></div>
+              <p class="upload-title" id="skuUploadTitle">拖拽商品照片到这里</p>
+              <p class="upload-subtitle" id="skuUploadSubtitle">请上传同一个商品的 3-8 张不同角度照片</p>
+              <p class="upload-helper">
+                不要把两个商品混在同一次上传中；系统会在预分析阶段做强校验，混传时禁止发布。
+              </p>
+              <div class="action-row">
+                <button class="btn btn-primary" id="skuChooseBtn" type="button">选择图片</button>
+                <button class="btn btn-ghost" id="skuAnalyzeBtn" type="button" disabled>开始预分析</button>
+              </div>
+              <input type="file" id="skuFileInput" accept="image/*" multiple hidden />
+            </div>
+
+            <div class="step-strip">
+              <div class="step-chip">1. 选择同一商品 3-8 张照片</div>
+              <div class="step-chip">2. 系统去重并校验是否为同一商品</div>
+              <div class="step-chip">3. 确认信息并发布入库</div>
+            </div>
+
+            <div class="progress-card">
+              <div class="progress-meta">
+                <span>上传与预分析进度</span>
+                <strong id="previewProgressText">0%</strong>
+              </div>
+              <div class="progress-bar">
+                <span id="previewProgressBar"></span>
+              </div>
+              <p class="progress-caption" id="previewStatus">尚未开始预分析。</p>
+            </div>
+
+            <div class="toolbar-row">
+              <div class="toolbar-info" id="skuToolbarInfo">当前显示全部图片</div>
+              <div class="toolbar-actions">
+                <button class="btn btn-ghost btn-compact" id="toggleActiveOnlyBtn" type="button">只看有效图片</button>
+                <button class="btn btn-ghost btn-compact" id="undoRemoveBtn" type="button" disabled>撤销最近删除</button>
+              </div>
+            </div>
+
+            <div class="thumb-grid" id="skuFileList"></div>
+          </section>
+
+          <aside class="stack-col">
+            <section class="panel guide-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">拍摄引导</p>
+                  <h3>拍摄红黑榜</h3>
+                </div>
+              </div>
+              <div class="guide-grid">
+                <div class="guide-card good">
+                  <h4>推荐这样拍</h4>
+                  <ul>
+                    <li>光线均匀，包装文字清晰可读</li>
+                    <li>尽量正面、无遮挡，主体完整</li>
+                    <li>背景简单，建议靠近货架边缘拍摄</li>
+                    <li>正面、轻侧面、轻俯仰各拍一张，角度越多越稳</li>
+                  </ul>
+                </div>
+                <div class="guide-card bad">
+                  <h4>尽量避免</h4>
+                  <ul>
+                    <li>塑料包装强反光</li>
+                    <li>严重模糊、抖动或离得太远</li>
+                    <li>多个商品重叠在同一张图里</li>
+                    <li>把不同商品混在同一批上传</li>
+                  </ul>
+                </div>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">信息确认</p>
+                  <h3>确认商品信息</h3>
+                </div>
+              </div>
+
+              <form class="form-grid" id="skuMetaForm">
+                <label>
+                  <span>品牌</span>
+                  <input type="text" id="brandInput" placeholder="例如：Milo" />
+                </label>
+                <label>
+                  <span>商品名</span>
+                  <input type="text" id="productInput" placeholder="如 OCR 识别到会自动预填" />
+                </label>
+                <label>
+                  <span>规格/口味</span>
+                  <input type="text" id="variantInput" placeholder="例如：Chocolate / Curry" />
+                </label>
+                <label>
+                  <span>容量/重量</span>
+                  <input type="text" id="sizeInput" placeholder="例如：400g" />
+                </label>
+                <label class="full-width">
+                  <span>分类</span>
+                  <select id="categoryInput">
+                    <option value="Beverages">饮料</option>
+                    <option value="Noodles">泡面/面食</option>
+                    <option value="Biscuits">饼干</option>
+                    <option value="Snacks">零食</option>
+                    <option value="Chocolate">巧克力</option>
+                    <option value="Dairy">乳制品</option>
+                    <option value="Others">其他</option>
+                  </select>
+                </label>
+              </form>
+
+              <div class="signal-box state-info" id="ocrSignal">
+                OCR 建议、批次校验结果与错误提示会显示在这里。
+              </div>
+
+              <div class="progress-card">
+                <div class="progress-meta">
+                  <span>发布与索引同步</span>
+                  <strong id="publishProgressText">0%</strong>
+                </div>
+                <div class="progress-bar">
+                  <span id="publishProgressBar"></span>
+                </div>
+                <p class="progress-caption" id="publishStatus">尚未开始发布。</p>
+              </div>
+
+              <div class="action-row action-row-spread">
+                <button class="btn btn-ghost" id="skuResetBtn" type="button">重置本批次</button>
+                <div class="inline-actions">
+                  <button class="btn btn-ghost hidden" id="gotoRecognitionBtn" type="button">去识别中心测试</button>
+                  <button class="btn btn-primary" id="skuPublishBtn" type="button" disabled>发布并同步</button>
+                </div>
+              </div>
+            </section>
+          </aside>
+        </div>
+
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">库内概览</p>
+              <h3>最近入库的 SKU</h3>
+            </div>
+          </div>
+          <div id="skuLibraryTable" class="table-wrap"></div>
+        </section>
+      </section>
+    </main>
+
+    <div class="loading-overlay hidden" id="loadingOverlay">
+      <div class="spinner"></div>
+      <p id="loadingText">处理中...</p>
+    </div>
+  </div>
+
+  <script src="/demo/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,387 @@
+﻿sku_id,brand,product_name,variant,size,category,search_keyword
+BIS_NES_MILO_MLK,Nestle,Milo Sandwich Biscuit,Milk,6x34g,Biscuits,Nestle Milo Sandwich Biscuit Milk 6 packs
+BIS_NES_MILO_ORI,Nestle,Milo Sandwich Biscuit,Original,6x34g,Biscuits,Nestle Milo Sandwich Biscuit Original 6 packs
+BIS_ORE_BABY_STR,Oreo,Sandwich Cookies,BabyMonster Strawberry,9x27.6g,Biscuits,Oreo BabyMonster Strawberry Creme 9 packs
+BIS_ORE_CHOC_CRE,Oreo,Sandwich Cookies,Chocolate Creme,9x27.6g,Biscuits,Oreo Chocolate Creme 9 packs
+BIS_GDT_DBL_CHOC,Good Time,Cookies,Double Choc,72g,Biscuits,Arnott's Good Time Double Choc cookies
+BIS_COF_JOY_ITA,Coffee Joy,Coffee Biscuit,Italian Moments,4x45g,Biscuits,Mayora Coffee Joy Italian Moments biscuit
+BIS_NAB_NXT_BRN,Nextar,Brownies,Choco Delight,8x14g,Biscuits,Nabati Nextar Brownies Choco Delight
+BEV_NES_MIL_REF,Nestle,Milo Powder,Activ-Go Refill,1kg,Beverage,Milo Activ-Go Softpack 1kg official
+BEV_NES_TRK_STK,Nescafe,Instant Coffee,Tarik,15x25g,Beverage,Nescafe Tarik stick packs
+BEV_NES_3I1_ORI,Nescafe,Instant Coffee,3-in-1 Original,25x18g,Beverage,Nescafe 3 in 1 Original red pack
+BEV_NES_3I1_CAR,Nescafe,Instant Coffee,3-in-1 Caramel Latte,15x25g,Beverage,Nescafe 3 in 1 Caramel Latte
+BEV_NES_WHT_ORI,Nescafe,White Coffee,Original,15x36g,Beverage,Nescafe White Coffee Original Gaw Kawk
+BEV_OLD_WHT_CLA,OldTown,White Coffee,Classic,15x38g,Beverage,OldTown White Coffee Classic bag
+BEV_OLD_WHT_LSR,OldTown,White Coffee,30% Less Sugar,15x25g,Beverage,OldTown White Coffee 30% Less Sugar
+BEV_OLD_WHT_HAZ,OldTown,White Coffee,Hazelnut,15x38g,Beverage,OldTown White Coffee Hazelnut
+SNK_JNJ_ROL_CHS,Jack 'n Jill,Roller Coaster,Cheese,100g,Snacks,Roller Coaster Cheese Potato Rings 100g
+SNK_JKR_POT_ORI,Jacker,Potato Crisps,Original,150g,Snacks,Jacker Potato Crisps Original 150g
+SNK_LAY_POT_SEG,Lay's,Potato Chips,Salted Egg,50g,Snacks,Lays Salted Egg chips Thailand
+SNK_LAY_POT_CLA,Lay's,Potato Chips,Classic,50g,Snacks,Lays Classic potato chips yellow pack
+SNK_LAY_POT_HOT,Lay's,Potato Chips,Hot & Spicy,50g,Snacks,Lays Hot and Spicy chips red pack
+SNK_CHI_POT_SAP,Chitato,Potato Chips,Sapi Panggang,68g,Snacks,Chitato Rasa Sapi Panggang
+SNK_CHI_POT_IND,Chitato,Potato Chips,Indomie Mi Goreng,68g,Snacks,Chitato Indomie Mi Goreng flavor
+CHO_KIT_DRK_BOR,KitKat,Chocolate Bar,Dark 52% Borneo,170g,Chocolate,KitKat Dark 52% Borneo share bag
+CHO_MIL_NUG_MUL,Milo,Nuggets,Multipack,10x15g,Chocolate,Milo Nuggets multipack green bag
+CHO_ROS_BNY_MIX,Roshen,Bonny Fruit,Mix Summer,200g,Candy,Roshen Bonny Fruit Mix Summer jelly
+CHO_CAD_DM_MUL,Cadbury,Dairy Milk,Standard Multipack,150g,Chocolate,Cadbury Dairy Milk mini bars multipack
+CHO_BIS_DUO_MAX,Biscolata,Duomax,Hazelnut Wafer,12x44g,Biscuits,Biscolata Duomax hazelnut wafer box
+CHO_HIM_SLT_LEM,Himalaya,Salt Candy,Lemon Flavor,15g,Candy,Himalaya Salt Lemon Candy extra cool
+CHO_CAD_DM_FN,Cadbury,Dairy Milk,Fruit & Nut,160g,Chocolate,Cadbury Dairy Milk Fruit and Nut purple pack
+CHO_CAD_DM_HAZ,Cadbury,Dairy Milk,Hazelnut,160g,Chocolate,Cadbury Dairy Milk Hazelnut green bar
+CHO_CAD_DM_ALM,Cadbury,Dairy Milk,Roast Almond,160g,Chocolate,Cadbury Dairy Milk Roast Almond dark blue
+CHO_MAR_BAR_STD,Mars,Chocolate Bar,Caramel Nougat,51g,Chocolate,Mars bar single chocolate
+CHO_MMM_PEA_YEL,M&M's,Peanut,Yellow Pack,40g,Chocolate,M&M's Peanut chocolate bag
+CHO_MMM_MLK_BRN,M&M's,Milk Chocolate,Brown Pack,40g,Chocolate,M&M's Milk Chocolate brown bag
+CHO_MMM_CRI_BLU,M&M's,Crispy,Blue Pack,30g,Chocolate,M&M's Crispy chocolate blue bag
+NOD_PRN_AYM_5P,Pran,Noodles,Perisa Ayam,5x75g,Noodles,Pran Noodles Perisa Ayam multipack
+NOD_PRN_KOR_5P,Pran,Noodles,Korean Super Spicy,5x75g,Noodles,Pran Noodles Korean Super Spicy red
+NOD_SED_LAK_5P,Mi Sedaap,Instant Noodles,Singapore Spicy Laksa,5x83g,Noodles,Mi Sedaap Singapore Spicy Laksa multipack
+NOD_SED_KOR_CHS,Mi Sedaap,Instant Noodles,Korean Cheese Buldak,5x86g,Noodles,Mi Sedaap Korean Cheese Buldak yellow
+NOD_SED_AYM_BAW,Mi Sedaap,Instant Noodles,Perisa Ayam Bawang,5x70g,Noodles,Mi Sedaap Perisa Ayam Bawang orange
+NOD_MAM_KOR_SPI,Mamee Chef,Instant Noodles,Korean Spicy Chicken,4x80g,Noodles,Mamee Chef Korean Spicy Chicken soup
+NOD_MAM_LAK_KAR,Mamee Chef,Instant Noodles,Laksari Kari,4x80g,Noodles,Mamee Chef Laksari Kari multipack
+NOD_A1_EMP_HER,A1,Emperor Herbs,Chicken Noodle,4x90g,Noodles,A1 Emperor Herbs Chicken Noodle yellow
+NOD_BIB_KOR_CHI,Bibigo,Stir-fried Ramyun,K-Chicken,4x115g,Noodles,Bibigo Stir-fried Ramyun K-Chicken purple
+NOD_BIB_SPI_TTE,Bibigo,Stir-fried Ramyun,Spicy Tteokbokki,4x115g,Noodles,Bibigo Stir-fried Ramyun Spicy Tteokbokki
+NOD_MAG_AYM_BER,Maggi,Instant Noodles,Sup Ayam Berempah,5x79g,Noodles,Maggi Sup Ayam Berempah multipack
+NOD_IND_GOR_5P,Indomie,Mi Goreng,Original,5x85g,Noodles,Indomie Mi Goreng Original 5 packs
+NOD_MAM_TOM_YAM,Mama,Instant Noodles,Tom Yam,5x90g,Noodles,Mama Instant Noodles Tom Yam multipack
+NOD_SAR_AYM_GOR,Sarimi,Mi Goreng,Perisa Ayam,5x75g,Noodles,Sarimi Mi Goreng Perisa Ayam yellow bag
+NOD_NUM_AYM_5P,NuMee,Gardenia Mi Segera,Perisa Ayam,5x75g,Noodles,Gardenia NuMee Perisa Ayam yellow green pack
+NOD_NUM_LAK_SIG,NuMee,Signature Mi Segera,Laksa Kari,5x80g,Noodles,NuMee Signature Laksa Kari multipack
+NOD_NUM_TOM_SIG,NuMee,Signature Mi Segera,Tom Yam,5x80g,Noodles,NuMee Signature Tom Yam purple pack
+NOD_BAG_KAR_5P,Mee Baagus,Mi Segera,Perisa Kari,5x75g,Noodles,Mee Baagus Perisa Kari multipack
+DRK_YAK_ACE_5P,Yakult,Ace,Probiotic Drink,5x80ml,Dairy,Yakult Ace blue packaging Malaysia
+DRK_YAK_LIT_5P,Yakult,Ace Light,Less Sugar,5x80ml,Dairy,Yakult Ace Light light blue pack
+DRK_PRA_LAS_MAN,Pran,Lassie,Mango Flavor,125ml,Dairy,Pran Lassie Mango yogurt drink
+DRK_PRA_LAS_STR,Pran,Lassie,Strawberry Flavor,125ml,Dairy,Pran Lassie Strawberry yogurt drink
+DRK_PRA_LAS_ORI,Pran,Lassie,Original/Plain,125ml,Dairy,Pran Lassie Original blue bottle
+DRK_MIK_YOG_ORI,Mikku,Yogurt Drink,Original,200ml,Dairy,Mikku Yogurt Drink Original yellow green
+DRK_VIT_LSR_5P,Vitagen,Less Sugar,Assorted,5x125ml,Dairy,Vitagen Less Sugar assorted 5 pack
+DRK_VIT_LB_5P,Vitagen,LB Probiotic,Assorted Flavors,5x125ml,Dairy,Vitagen Probiotic assorted pack
+DRK_MAR_YOG_STR,Marigold,Yogurt Cup,Strawberry,130g,Dairy,Marigold Yogurt Strawberry cup
+DRK_MAR_YOG_MIX,Marigold,Yogurt Cup,Mixed Berry,130g,Dairy,Marigold Yogurt Mixed Berry cup
+SNK_LAY_POT_SCR,Lay's,Potato Chips,Sour Cream & Onion,50g,Snacks,Lays Sour Cream and Onion green pack
+SNK_JKR_POT_NAT,Jacker,Potato Chips,Natural Flavor,60g,Snacks,Jacker Potato Chips Natural black green bag
+SNK_CHI_LIT_AYM,Chitato,Lite Potato Chips,Ayam Bawang,55g,Snacks,Chitato Lite Ayam Bawang light yellow
+SNK_GOB_POT_ORI,Go Bites,Potato Chips,Original Flavor,60g,Snacks,Go Bites Original thin cut blue bag
+SNK_GOB_POT_BBQ,Go Bites,Potato Chips,Barbeque Flavor,60g,Snacks,Go Bites Barbeque Flavor black bag
+SNK_POP_CRN_DUR,Pop Corn,Corn Snack,Perisa Durian,60g,Snacks,Pop Corn Perisa Durian yellow bag
+NOD_NUM_KAR_5P,NuMee,Gardenia Mi Segera,Perisa Kari,5x75g,Noodles,Gardenia NuMee Perisa Kari red multipack
+DRK_FF_BAN_200M,Farm Fresh,Flavoured Milk,Banana,200ml,Beverage,Farm Fresh Banana Milk 200ml yellow carton
+DRK_FF_LAT_200M,Farm Fresh,UHT Coffee,Caffe Latte,200ml,Beverage,Farm Fresh Caffe Latte 200ml beige
+DRK_FF_YOG_MAN,Farm Fresh,Yogurt Drink,Mango,200ml,Beverage,Farm Fresh Yogurt Mango 200ml white
+DRK_OAT_CHOC_200M,Oatside,Oat Milk,Chocolate Malt,200ml,Beverage,Oatside Chocolate Malt Oat Milk 200ml
+DRK_DL_STR_200M,Dutch Lady,UHT Milk,Strawberry,200ml,Beverage,Dutch Lady Strawberry Milk 200ml pink
+DRK_DL_CHO_200M,Dutch Lady,UHT Milk,Chocolate,200ml,Beverage,Dutch Lady Chocolate Milk 200ml brown
+DRK_GD_STR_200M,Goodday,UHT Milk,Strawberry,200ml,Beverage,Goodday Strawberry Milk 200ml pink
+DRK_GD_CHO_200M,Goodday,UHT Milk,Chocolate,200ml,Beverage,Goodday Chocolate Milk 200ml brown
+DRK_GD_LF_200M,Goodday,UHT Milk,Low Fat,200ml,Beverage,Goodday Low Fat Milk 200ml light blue
+DRK_GD_FC_200M,Goodday,UHT Milk,Full Cream,200ml,Beverage,Goodday Full Cream Milk 200ml blue
+DRK_ABF_CHO_200M,Able Farm,UHT Milk,Chocolate,200ml,Beverage,Able Farm Chocolate Milk 200ml red
+DRK_ABF_FC_200M,Able Farm,UHT Milk,Full Cream,200ml,Beverage,Able Farm Full Cream Milk 200ml blue
+DRK_DL_OMG_200M,Dutch Lady,UHT Milk,Omega 3*6,200ml,Beverage,Dutch Lady Omega 3*6 200ml blue kids
+DRK_POK_CAP_CAN,Pokka,Canned Coffee,Cappuccino,240ml,Beverage,Pokka Cappuccino 240ml black gold can
+DRK_POK_KPS_CAN,Pokka,Canned Coffee,Kopi Susu,240ml,Beverage,Pokka Kopi Susu 240ml brown gold can
+DRK_OLD_WHT_CAN,OldTown,White Coffee,Classic,240ml,Beverage,OldTown White Coffee Classic 240ml can
+DRK_WON_TRK_CAN,Wonda,Coffee Can,Kopi Tarik,240ml,Beverage,Wonda Kopi Tarik 240ml orange can
+DRK_VCD_KOP_CAN,V-Code,Coffee Can,Kopi,240ml,Beverage,V-Code Kopi 240ml black can
+DRK_PWR_EXP_CAN,Power Root,Expresso,Mocha/Original,240ml,Beverage,Power Root Expresso can with beard logo
+SNK_CHI_ORI_60G,Chipster,Potato Chips,Original,60g,Snacks,Chipster Original potato chips black yellow bag
+SNK_CHI_BBQ_60G,Chipster,Potato Chips,Flaming BBQ,60g,Snacks,Chipster Flaming BBQ black orange bag
+SNK_WIS_STC_65G,Wise,Cottage Fries,Sweet Thai Chili,65g,Snacks,Wise Cottage Fries Sweet Thai Chili red white
+SNK_NOI_CON_ORI,Noi,Con Con,Corn Chips Original,60g,Snacks,Noi Con Con Corn Chips Original white bag
+SNK_MAX_BBQ_70G,Maxicorn,Corn Chips,Roasted BBQ,70g,Snacks,Maxicorn Roasted BBQ red bag
+SNK_MIS_POT_KPO,Mister Potato,Potato Crisps,K-Pop Edition (Assorted),150g,Snacks,Mister Potato K-Pop edition Daebak pack
+SNK_PRI_ORI_CAN,Pringles,Potato Crisps,Original,147g,Snacks,Pringles Original red canister
+SNK_PRI_BBQ_CAN,Pringles,Potato Crisps,Saucy BBQ,147g,Snacks,Pringles Saucy BBQ purple canister
+SNK_PRI_CHS_CAN,Pringles,Potato Crisps,Cheesy Cheese,147g,Snacks,Pringles Cheesy Cheese orange canister
+DRK_YEO_TEA_LYC,Yeo's,JusTea,Green Tea Lychee,300ml,Beverage,Yeos JusTea Green Tea Lychee can
+DRK_YEO_TEA_LEM,Yeo's,Lemon Tea,Standard,300ml,Beverage,Yeos Lemon Tea blue can
+DRK_YEO_SGR_CAN,Yeo's,Sugar Cane,Standard,300ml,Beverage,Yeos Sugar Cane Drink green can
+DRK_YEO_LYC_CAN,Yeo's,Lychee Drink,Standard,300ml,Beverage,Yeos Lychee Drink pink can
+DRK_YEO_CHR_TP,Yeo's,Chrysanthemum Tea,Tetra Pak,250ml,Beverage,Yeos Chrysanthemum Tea yellow pack
+DRK_YEO_WIN_TP,Yeo's,Winter Melon,Tetra Pak,250ml,Beverage,Yeos Winter Melon Tea light green pack
+DRK_YEO_SOY_TP,Yeo's,Susu Soya,Soy Milk,250ml,Beverage,Yeos Soy Milk tetra pak yellow
+DRK_YEO_TEB_TP,Yeo's,Tebu,Sugar Cane,250ml,Beverage,Yeos Sugar Cane tetra pak green
+DRK_YEO_YOG_ASL,Yeo's,Yeogurt,Asli (Original),250ml,Beverage,Yeos Yeogurt Drink Original blue pack
+DRK_YEO_YOG_ANG,Yeo's,Yeogurt,Anggur (Grape),250ml,Beverage,Yeos Yeogurt Drink Grape purple pack
+DRK_POK_GRN_TEA,Pokka,Green Tea,Jasmine,250ml,Beverage,Pokka Green Tea Jasmine pack
+DRK_POK_MEL_MLK,Pokka,Melon Milk,Flavoured Milk,250ml,Beverage,Pokka Melon Milk light green pack
+DRK_POK_BAN_MLK,Pokka,Banana Milk,Flavoured Milk,250ml,Beverage,Pokka Banana Milk yellow pack
+DRK_CAL_SOD_ORI,Calpis,Soda,Original,320ml,Beverage,Calpis Soda Original blue white can
+DRK_CAL_SOD_LYC,Calpis,Soda,Lychee,320ml,Beverage,Calpis Soda Lychee pink white can
+DRK_WAR_STR_CAN,Warrior,Energy Drink,Strawberry,325ml,Beverage,Warrior Energy Drink Strawberry red can
+DRK_100_PLS_ORI,100 Plus,Isotonic,Original,325ml,Beverage,100 Plus Original can blue white
+DRK_KIC_JOY_CAN,Kickapoo,Joy Juice,Citrus,320ml,Beverage,Kickapoo Joy Juice green can
+DRK_BOM_ISO_VIT,Boom+,Isotonic,Vitamin C,320ml,Beverage,Boom Isotonic Vitamin C pink can
+DRK_100_PLS_BTL,100 Plus,Isotonic Bottle,Original,500ml,Beverage,100 Plus Original 500ml bottle
+DRK_100_ACT_BTL,100 Plus,Active,Non-Carbonated,500ml,Beverage,100 Plus Active 500ml blue bottle
+DRK_FNN_ISK_SOD,F&N,Iskrim Soda,Ice Cream Soda,500ml,Beverage,FN Ice Cream Soda green label bottle
+DRK_LIP_LEM_TEA,Lipton,Ice Tea,Lemon,450ml,Beverage,Lipton Ice Tea Lemon yellow bottle
+DRK_OYO_GRN_TEA,Oyoshi,Green Tea,Honey Lemon,380ml,Beverage,Oyoshi Green Tea Honey Lemon bottle
+DRK_SEA_CHR_TEA,Seasons,Chrysanthemum,Tea,380ml,Beverage,Seasons Chrysanthemum Tea yellow bottle
+DRK_TWI_ORA_500,Tropicana,Twister,Orange,500ml,Beverage,Tropicana Twister Orange bottle
+DRK_RIB_PAS_BTL,Ribena,Blackcurrant,Standard,450ml,Beverage,Ribena Blackcurrant purple bottle
+DRK_MON_ENE_ULT,Monster,Energy Drink,Ultra (White),355ml,Beverage,Monster Energy Ultra White can
+DRK_MON_ENE_SUN,Monster,Energy Drink,Ultra Sunrise (Orange),355ml,Beverage,Monster Energy Ultra Sunrise orange
+DRK_MON_ENE_PNK,Monster,Energy Drink,Pipeline Punch (Pink),355ml,Beverage,Monster Energy Pipeline Punch pink can
+DRK_SCH_TON_CAN,Schweppes,Tonic Water,Standard,320ml,Beverage,Schweppes Tonic Water yellow can
+DRK_COC_ASL_CAN,Coca-Cola,Rasa Asli,Less Sugar,320ml,Beverage,Coca-Cola Rasa Asli red can Malaysia
+DRK_COC_ZER_CAN,Coca-Cola,Zero Sugar,Standard,320ml,Beverage,Coca-Cola Zero Sugar black red can
+DRK_COC_VAN_CAN,Coca-Cola,Vanilla,Standard,320ml,Beverage,Coca-Cola Vanilla brown red can
+DRK_FUZ_TEA_LEM,Fuze Tea,Iced Tea,Lemon,320ml,Beverage,Fuze Tea Lemon jasmine green can
+DRK_FUZ_TEA_PAS,Fuze Tea,Iced Tea,Passion Fruit,320ml,Beverage,Fuze Tea Passion Fruit can
+DRK_FUZ_TEA_JAS,Fuze Tea,Iced Tea,Jasmine Green Tea,320ml,Beverage,Fuze Tea Jasmine Green Tea light green can
+DRK_MMD_REF_ORA,Minute Maid,Refresh,Orange Flavor,300ml,Beverage,Minute Maid Refresh Orange can
+DRK_NES_GOL_BLK,Nescafe,Gold,Black/Americano,240ml,Beverage,Nescafe Gold Black coffee can
+DRK_NES_TAR_CAN,Nescafe,Tarik,Standard,240ml,Beverage,Nescafe Tarik orange brown can
+DRK_NES_KPO_CAN,Nescafe,Kopi-O,Standard,240ml,Beverage,Nescafe Kopi-O black silver can
+DRK_NES_MOC_CAN,Nescafe,Mocha,Standard,240ml,Beverage,Nescafe Mocha purple can
+DRK_NES_LAT_CAN,Nescafe,Latte,Standard,240ml,Beverage,Nescafe Latte yellow blue can
+DRK_MIL_ICE_CAN,Milo,Iced Milo,Original,240ml,Beverage,Milo Iced Milo green blue can
+DRK_NES_ICE_CAP,Nescafe,Iced Bottle,Cappuccino,500ml,Beverage,Nescafe Iced Cappuccino gold bottle
+DRK_NES_ICE_LAT,Nescafe,Iced Bottle,Caffe Latte,500ml,Beverage,Nescafe Iced Caffe Latte blue bottle
+DRK_RDB_GLD_CAN,Red Bull,Energy Drink,Gold (European),250ml,Beverage,Red Bull Energy Drink Gold can
+DRK_RDB_PLS_CAN,Red Bull,Energy Drink,Plus (Less Sugar),250ml,Beverage,Red Bull Energy Drink Plus silver can
+DRK_RDB_SPK_POM,Red Bull,Sparkling,Pomelo Flavor,250ml,Beverage,Red Bull Sparkling Pomelo pink can
+DRK_RTZ_PKC_BTL,Ritzen,Pokemon Drink,Pikachu (Lemon),330ml,Beverage,Ritzen Pokemon Pikachu Lemon drink
+DRK_TNG_MGO_BTL,Tinge,Flavoured Water,Mango Apple,500ml,Beverage,Spritzer Tinge Mango Apple bottle
+DRK_TNG_LEM_BTL,Tinge,Flavoured Water,Lemon,500ml,Beverage,Spritzer Tinge Lemon bottle
+DRK_SPR_SPK_LEM,Spritzer,Sparkling,Lemon,400ml,Beverage,Spritzer Sparkling Lemon green bottle
+NOD_SAM_CAR_BWL,Samyang,Buldak Bowl,Carbonara (Pink),105g,Noodles,Samyang Buldak Carbonara Bowl pink
+NOD_SAM_ORI_BWL,Samyang,Buldak Bowl,Original (Black),105g,Noodles,Samyang Buldak Original Bowl black
+NOD_SAM_CRM_BWL,Samyang,Buldak Bowl,Cream Carbonara,140g,Noodles,Samyang Buldak Cream Carbonara Bowl
+NOD_SAM_MEP_GRL,Samyang,MEP Cup,Grilled Garlic,70g,Noodles,Samyang MEP Grilled Garlic cup
+NOD_SAM_MEP_BLK,Samyang,MEP Cup,Black Pepper,70g,Noodles,Samyang MEP Black Pepper cup
+NOD_SAM_CHE_CUP,Samyang,Buldak Cup,Cheese Flavor,70g,Noodles,Samyang Buldak Cheese Cup yellow
+NOD_NON_SHI_CUP,Nongshim,Shin Ramyun,Cup Noodles,75g,Noodles,Nongshim Shin Ramyun Cup red
+NOD_NON_STF_JFY,Nongshim,Shin Stir Fry,Jay Fai (Tom Yum),103g,Noodles,Nongshim Shin Stir Fry Jay Fai Bowl
+NOD_MAV_SHK_ORI,Mama Vege,Shake Mee,Original Flavor,90g,Noodles,Mama Vege Shake Mee Original green cup
+NOD_MAV_SHK_SPI,Mama Vege,Shake Mee,Spicy Flavor,90g,Noodles,Mama Vege Shake Mee Spicy red cup
+NOD_7EL_CUR_LAK,7-Eleven,Instant Bowl,Curry Laksa,102g,Noodles,7-Eleven Curry Laksa instant bowl
+DRK_KID_BAR_PNK,Kidoz,Barbie Drink,Strawberry (Pink),200ml,Beverage,Kidoz Barbie Drink Strawberry pink bottle
+DRK_KID_BAR_GRN,Kidoz,Barbie Drink,Apple/Melon (Green),200ml,Beverage,Kidoz Barbie Drink Apple green bottle
+DRK_PRA_COC_CAN,Pran,Air Kelapa,Coconut Water,330ml,Beverage,Pran Coconut Water 330ml can
+DRK_ZUS_LAT_BTL,ZUS Coffee,Iced Latte,Classic Latte,250ml,Beverage,ZUS Coffee Iced Latte plastic bottle
+DRK_ZUS_BTR_BTL,ZUS Coffee,Iced Latte,Buttercream Latte,250ml,Beverage,ZUS Coffee Buttercream Latte bottle
+DRK_FNN_TTR_BTL,F&N,Teh Tarik,Original Flavor,270ml,Beverage,FN Teh Tarik Ori plastic bottle
+DRK_PRA_BSL_MAN,Pran,Basil Seed,Mango Flavor,290ml,Beverage,Pran Basil Seed Mango glass bottle
+DRK_PRA_BSL_PAS,Pran,Basil Seed,Passion Fruit,290ml,Beverage,Pran Basil Seed Passion Fruit
+DRK_PRA_BSL_STR,Pran,Basil Seed,Strawberry,290ml,Beverage,Pran Basil Seed Strawberry
+DRK_PRA_BSL_HON,Pran,Basil Seed,Honey Flavor,290ml,Beverage,Pran Basil Seed Honey
+DRK_FLO_ORA_BTL,Floridina,Orange Juice,Pulpy Orange,350ml,Beverage,Floridina Orange Juice bottle
+DRK_MOG_GRA_BTL,Mogu Mogu,Juice Drink,Grape with Nata,320ml,Beverage,Mogu Mogu Grape 320ml bottle
+DRK_MAR_YOG_LF,Marigold,Yogurt Cup,Low Fat,130g,Dairy,Marigold Yogurt Low Fat cup blue
+DRK_MAR_YDR_STR,Marigold,Yogurt Drink,Fat Free Strawberry,200ml,Dairy,Marigold Yogurt Drink Strawberry bottle
+DRK_PEF_ORA_1L,Marigold,Peel Fresh,Orange Juice,1L,Beverage,Marigold Peel Fresh Orange 1L carton
+DRK_PEF_APP_1L,Marigold,Peel Fresh,Apple Aloe Vera,1L,Beverage,Marigold Peel Fresh Apple Aloe Vera 1L
+DRK_PEF_DUR_1L,Marigold,Peel Fresh,Durian Belanda,1L,Beverage,Marigold Peel Fresh Soursop Durian Belanda 1L
+DRK_PEF_GUA_1L,Marigold,Peel Fresh,Pink Guava,1L,Beverage,Marigold Peel Fresh Pink Guava 1L
+DAI_GDD_STR_1L,Goodday,UHT Milk,Strawberry,1L,Dairy,Goodday Strawberry Milk 1L pink carton
+DAI_GDD_LF_1L,Goodday,UHT Milk,Low Fat,1L,Dairy,Goodday Low Fat Milk 1L light blue
+DAI_GDD_FCM_1L,Goodday,UHT Milk,Full Cream,1L,Dairy,Goodday Full Cream Milk 1L blue
+DAI_MAG_FCM_1L,Magnolia,Pure Milk,Full Cream,1L,Dairy,Magnolia Full Cream Milk 1L blue pack
+DAI_MEA_FCM_1L,Meadow Fresh,Pure Milk,Full Cream,1L,Dairy,Meadow Fresh Full Cream Milk 1L
+DRK_POK_GRN_1L,Pokka,Jasmine Green Tea,Standard,1L,Beverage,Pokka Jasmine Green Tea 1L tetra pak
+DAI_ANL_GOL_1L,Anlene,Gold 5X,UHT Milk,1L,Dairy,Anlene Gold 5X 1L carton
+DRK_COC_ORI_15L,Coca-Cola,Classic,Original Taste,1.5L,Beverage,Coca-Cola 1.5L bottle Malaysia
+DRK_100_ORI_15L,100 Plus,Isotonic,Original,1.5L,Beverage,100 Plus Original 1.5L bottle
+DRK_100_LSR_15L,100 Plus,Isotonic,Reduced Sugar,1.5L,Beverage,100 Plus Reduced Sugar 1.5L blue
+DRK_MTD_BLU_15L,Mountain Dew,Blue Shock,Standard,1.5L,Beverage,Mountain Dew Blue Shock 1.5L bottle
+DRK_MTD_ORI_15L,Mountain Dew,Neon,Original,1.5L,Beverage,Mountain Dew Original 1.5L bottle
+DRK_TWI_ORA_15L,Tropicana,Twister,Orange,1.5L,Beverage,Tropicana Twister Orange 1.5L bottle
+DRK_MMD_PLY_15L,Minute Maid,Pulpy,Orange,1.5L,Beverage,Minute Maid Pulpy Orange 1.5L
+DRK_SPR_SPK_1L,Spritzer,Sparkling,Water,1L,Beverage,Spritzer Sparkling Water 1L green bottle
+DRK_PEP_ZER_15L,Pepsi,Black,Zero Sugar,1.5L,Beverage,Pepsi Black Zero Sugar 1.5L bottle
+DRK_PEP_ORI_15L,Pepsi,Original,Standard,1.5L,Beverage,Pepsi Original 1.5L bottle
+NOD_SED_KOR_CHS_5P,Mi Sedaap,Korean Cheese Buldak,Fried Ramen,5x86g,Noodles,Mi Sedaap Korean Cheese Buldak 5 packs official front view
+NOD_MAM_KARI_5P,Mamee,Perisa Kari,Curry Flavor,5x77g,Noodles,Mamee Perisa Kari 5 packs official front view
+NOD_MYK_HKN_PRN,MyKuali,Penang Hokkien Prawn Noodle,Prawn Flavor,4x105g,Noodles,MyKuali Penang Hokkien Prawn Noodle multipack official front view
+DAI_AMU_PAS_ORI,Amul,Pasteurized Butter,Original,100.0g,Dairy,Amul Amul Pasteurized Butter Malaysia
+BEV_NUT_BIS_ORI,Nutella,biscuits,Original,193.2g,Beverages,Nutella Nutella biscuits Malaysia
+BEV_KIN_KIN_ORI,KinderFerrero,Kinder Happy hippo,Original,5g,Beverages,KinderFerrero Kinder Happy hippo Malaysia
+SNK_HIM_MIN_FLA,Himalaya Salt,Mint Candy Lemon,Flavour,15g,Snacks,Himalaya Salt Mint Candy Lemon Flavour Malaysia
+OTR_OLD_GLU_ORI,Old El Paso,Gluten Free Tortillas,Original,6,Others,Old El Paso Gluten Free Tortillas Malaysia
+OTR_KEL_COR_ORI,Kellogg's,Corn Flakes,Original,500g,Others,Kellogg's Corn Flakes Malaysia
+DAI_KOU_AUT_ORI,Koukakis,Authentic Greek Yoghurt,Original,150,Dairy,Koukakis Authentic Greek Yoghurt Malaysia
+OTR_NOW_ULT_FIS,NOW FOODS,Ultra Omega 3,Fish Oil,90 Softgel,Others,NOW FOODS Ultra Omega-3 Fish Oil Malaysia
+BIS_FER_HAN_ORI,Ferrero,Hanuta Minis,Original,1pcs,Biscuits,Ferrero Hanuta Minis Malaysia
+OTR_EMC_MUS_PIE,Emco,Musli With Fruit,Pieces Crunchy,375g,Others,Emco Emco Musli With Fruit Pieces Crunchy Malaysia
+BEV_GAR_ROT_CLA,Gardenia,Roti Putih Original,Classic Jumbo,600g,Beverages,Gardenia Roti Putih Original Classic Jumbo Malaysia
+BIS_HUP_CRE_ORI,HUP SENG,Cream Crackers,Original,428g,Biscuits,HUP SENG Cream Crackers Malaysia
+BEV_100_ORI_ELE,100 PLUS,ORIGINAL CARBONATED ISOTONIC,ELECTROLYTE DRINK,325ml,Beverages,100 PLUS ORIGINAL CARBONATED ISOTONIC ELECTROLYTE DRINK Malaysia
+BEV_OAT_OAT_DRI,OATSIDE,OAT M lK,Drink,200ml,Beverages,OATSIDE OAT M*lK Drink Malaysia
+BEV_HAN_KIS_ORI,Hans Kissle,kisses,Original,25,Beverages,Hans Kissle kisses Malaysia
+BEV_DEL_SWE_STY,Del Monte,Sweet Corn Cream,Style,418g,Beverages,Del Monte Sweet Corn Cream Style Malaysia
+BEV_GAR_BRE_PEN,Gardenia,Breakthru Roti Gandum,Penuh,400g,Beverages,Gardenia Breakthru Roti Gandum Penuh Malaysia
+BEV_SO_BAR_ORI,So Good,Barista Oat,Original,1l,Beverages,So Good Barista Oat Malaysia
+BEV_COC_PRO_ORI,Coca-Cola,Product,Original,320g,Beverages,Coca-Cola Coca-Cola Malaysia
+OTR_GAR_QUI_COK,Gardenia,Quick Bites Perisa,Coklat Roti Krim,50g,Others,Gardenia Quick Bites Perisa Coklat Roti Krim Malaysia
+OTR_SIM_SAL_ORI,Simply,Salmon Pieces,Original,250g,Others,Simply Salmon Pieces Malaysia
+BEV_POK_JAP_ORI,Pokka,Japanese Green Tea,Original,300ml,Beverages,Pokka Japanese Green Tea Malaysia
+BEV_KEL_GRA_ORI,Kellogg's,GRANOLA SUPER BERRY,Original,1unit,Beverages,Kellogg's GRANOLA SUPER BERRY Malaysia
+OTR_THU_KAC_ORI,thumbs,KACANG MENGLEMBU,Original,120g,Others,thumbs THUMBS KACANG MENGLEMBU Malaysia
+OTR_AYA_SAU_ORI,Ayam,Sauce yakitori,Original,1unit,Others,Ayam Sauce yakitori Malaysia
+OTR_MAS_SEE_BAR,Massimo,Seeded Multigrain With,Barley,1unit,Others,Massimo Seeded Multigrain With Barley Malaysia
+BEV_GAR_ROT_ORI,Gardenia,ROTI SANDWICH,Original,61.5g,Beverages,Gardenia ROTI SANDWICH Malaysia
+BEV_POK_GRE_ORI,Pokka,Green Tea Jasmine,Original,500ml,Beverages,Pokka Green Tea Jasmine Malaysia
+OTR_CAR_SUP_BAR,Carman's,Super Berry Muesli,Bars Cranberry Blueberry Goji,270g,Others,"Carman's Carman's Super Berry Muesli Bars (Cranberry, Blueberry & Goji) Malaysia"
+NOD_MAM_GHO_CHI,Mamee,Ghost Pepper Spicy,Chicken Dry Black Noodles,80g,Noodles,Mamee Ghost Pepper Spicy Chicken (Dry Black Noodles) Malaysia
+DAI_AUS_SKI_ORI,Australia's own,Skim Milk,Original,1l,Dairy,Australia's own Skim Milk Malaysia
+DAI_DOR_DOR_ORI,Doritos,Dorito Nacho Cheese,Original,65g,Dairy,Doritos Dorito Nacho Cheese Malaysia
+BEV_ORE_DUT_ORI,Oreo,Dutch Cocoa Wafer,Original,117g,Beverages,Oreo Oreo Dutch Cocoa Wafer Malaysia
+OTR_MAS_100_LOA,Massimo,100 Whole Wheat,Loaf,1unit,Others,Massimo 100% Whole Wheat Loaf Malaysia
+BEV_VID_SAL_ORI,vida,Salty Lychee,Original,11,Beverages,vida Vida Salty Lychee Malaysia
+OTR_MIS_PRO_ORI,Mission,Protein Wraps Wholemeal,Original,360g,Others,Mission Protein Wraps Wholemeal Malaysia
+BIS_RIT_CRA_ORI,Ritz,Crackers Box,Original,300g,Biscuits,Ritz Ritz Crackers Box Malaysia
+OTR_CAD_PRO_ORI,Cadbury,Product,Original,1unit,Others,Cadbury cadbury Malaysia
+BIS_JUL_BUT_ORI,Julie's,Butter Crackers,Original,250g,Biscuits,Julie's Butter Crackers Malaysia
+BEV_COC_SPR_ORI,Coca-Cola,Sprite,Original,330ml,Beverages,Coca-Cola Sprite Malaysia
+BEV_SEA_DRI_ORI,Sea Master,drinking,Original,1unit,Beverages,Sea Master sea master drinking Malaysia
+OTR_DKS_BUT_ORI,DKSH,Buttercup,Original,1kg,Others,DKSH Buttercup Malaysia
+BEV_NES_MIL_PAC,Nestle,Milo Malt Chocolate,Pack,200ml,Beverages,Nestle Milo Malt Chocolate 200ml Pack Malaysia
+OTR_ENG_PLA_ORI,English,Planta,Original,240g,Others,English Planta Malaysia
+BEV_YAK_MIN_ORI,Yakult,Minuman Susu Kultur,Original,1unit,Beverages,Yakult Minuman Susu Kultur Malaysia
+BEV_VID_ORI_ORI,Vida,Original Citrus,Original,325ml,Beverages,Vida Original Citrus Malaysia
+BEV_CED_PEA_ORI,Ced,Peanut Butter,Original,1unit,Beverages,Ced CED Peanut Butter Malaysia
+OTR_CSR_196_ORI,CSR,196101000210 4260 M,Original,malaysia,Others,CSR 196101000210 (4260-M) Malaysia
+OTR_MIL_PRO_ORI,Milo,Product,Original,1unit,Others,Milo Milo Malaysia
+BEV_KEL_GRA_ORI_02,Kellogg's,Granola Dark Chocolate,Original,1unit,Beverages,Kellogg's Granola Dark Chocolate Malaysia
+NOD_IND_MI_ORI,Indomie,Mi Goreng Original,Original,80g,Noodles,Indomie Indomie Mi Goreng Original Malaysia
+BIS_HUN_BAK_PIN,Huntley & Palmers,Baked Sourdough Himalayan,Pink Salt,140g,Biscuits,Huntley & Palmers Huntley & Palmers Baked Sourdough Himalayan Pink Salt Malaysia
+BIS_YUK_JAP_BEA,Yuki & Love,japanese style Red,Bean mochi,210g,Biscuits,Yuki & Love Yuki & love japanese style Red Bean mochi Malaysia
+SNK_DOR_PRO_ORI,Doritos,Product,Original,1unit,Snacks,Doritos Doritos Malaysia
+BEV_CED_PEA_ORI_02,CED,Peanut Butter Crunchy,Original,1unit,Beverages,CED Peanut Butter Crunchy Malaysia
+BIS_JAC_CRE_ORI,Jacobs,Cream Crackers,Original,1unit,Biscuits,Jacobs Cream Crackers Malaysia
+OTR_COK_CAD_ORI,Coklat,cadbury,Original,160g,Others,Coklat Coklat cadbury Malaysia
+NOD_MAM_MON_ORI,Mamee,Monster Noodle Snack,Original,1unit,Noodles,Mamee Monster Noodle Snack Malaysia
+OTR_CAD_SMA_ORI,cadbury,small selection box,Original,78g,Others,cadbury small selection box Malaysia
+BEV_7D_DRI_ORI,7D,Dried Mangoes,Original,200g,Beverages,7D Dried Mangoes Malaysia
+BEV_FIT_CRU_BRE,Fitnessse,Crunchy Oat Granola,Breakfast Cereal with a Touch,300g,Beverages,Fitnessse Crunchy Oat Granola Breakfast Cereal with a Touch of Honey Malaysia
+BEV_EMC_GRA_ORI,Emco,Granola chocolate almond,Original,1unit,Beverages,Emco Granola chocolate & almond Malaysia
+SNK_MIS_CRI_ORI,Mister Potato,Crips Canister Original,Original,125g,Snacks,Mister Potato Mister Potato Crips Canister Original Malaysia
+OTR_MAG_BIG_ORI,Maggi,BIG curry flavour,Original,95g,Others,Maggi BIG curry flavour Malaysia
+BEV_HER_SOY_ORI,Herseys,Soyfresh herseys chocolate,Original,1unit,Beverages,Herseys Soyfresh herseys chocolate Malaysia
+OTR_ORI_JAC_ORI,oriental,Jacker Barbecue,Original,60g,Others,oriental Jacker Barbecue 60g Malaysia
+BEV_CAD_DAI_ORI,Cadbury,Dairy Milk,Original,160g,Beverages,Cadbury Dairy Milk Malaysia
+BIS_JUL_GOL_ORI,Julie's,Golden Cracker,Original,32g,Biscuits,Julie's Golden Cracker Malaysia
+CHO_CED_PUR_ORI,CED,Pure Honey,Original,500g,Chocolate,CED Pure Honey Malaysia
+BEV_WHI_HOK_ORI,Whittaker's,Hokey Pokey Crunch,Original,250g,Beverages,Whittaker's Hokey Pokey Crunch Malaysia
+BEV_PEP_PRO_ORI,Pepsi,Product,Original,1unit,Beverages,Pepsi Pepsi Malaysia
+NOD_RAM_YEU_ORI,ramyon,Yeul Ramen,Original,1unit,Noodles,ramyon Yeul Ramen Malaysia
+DAI_LID_COC_ORI,Lidl,COCON MANGO PUDDING,Original,480g,Dairy,Lidl COCON MANGO PUDDING Malaysia
+DAI_GOL_PRO_ORI,Golden Churn,Product,Original,250g,Dairy,Golden Churn Golden Churn Malaysia
+BEV_CHE_COF_ORI,Chekhup,coffee creamer,Original,1unit,Beverages,Chekhup coffee & creamer Malaysia
+BEV_SEA_SOY_ORI,Season,Soya Bean Drink,Original,250ml,Beverages,Season Soya Bean Drink Malaysia
+BEV_DUT_COF_ORI,Dutch Lady,Coffee,Original,200ml,Beverages,Dutch Lady Coffee Malaysia
+OTR_CHE_RED_ORI,Chesterfield,red,Original,box,Others,Chesterfield Chesterfield red box Malaysia
+OTR_ERA_RIC_ORI,erawan,rice vermicelli,Original,1unit,Others,erawan Erawan rice vermicelli Malaysia
+DAI_FAR_LAC_MIL,Farm Fresh,Lactose Free Light,Milk,1unit,Dairy,Farm Fresh Lactose Free Light Milk Malaysia
+BEV_PEE_MAR_MIX,Peel Fresh,Marigold power juice,mix powerberries,1l,Beverages,Peel Fresh Marigold power juice mix powerberries 1L Malaysia
+OTR_CED_HIG_BUT,CED,High Protein Peanut,Butter Crunchy,1unit,Others,CED High Protein Peanut Butter Crunchy Malaysia
+OTR_MEG_PUR_SAL,Mega Food,Pure Creamy Butter,Salted,1unit,Others,Mega Food Pure & Creamy Butter Salted Malaysia
+OTR_7DA_CRO_ORI,7Days,Croissant,Original,1unit,Others,7Days 7Days Croissant Malaysia
+DAI_FAR_SKI_MIL,Farm Fresh,Skinny Low Fat,Milk,1unit,Dairy,Farm Fresh Skinny Low Fat Milk Malaysia
+BEV_NHF_GLU_BUT,NHF,Gluten free Chocolate,butter cookies,30g,Beverages,NHF Gluten free Chocolate butter cookies Malaysia
+OTR_LIP_TEH_ORI,Lipton,Teh lipton,Original,40s,Others,Lipton Teh lipton Malaysia
+OTR_MAM_CRE_ORI,Mamee Chef,Creamy tomyum flavour,Original,88g,Others,Mamee Chef Creamy tomyum flavour Malaysia
+OTR_APP_KIC_LIG,Apple Brand,Kicap Soya Cair,Light Soy Sauce,700g,Others,Apple Brand Kicap Soya Cair Light Soy Sauce Malaysia
+OTR_MOR_SWI_MUE,Mornflake,Swiss style NAS,muesli,1100g,Others,Mornflake Swiss style NAS muesli Malaysia
+OTR_ANG_LIG_ORI,Angel,Light Soy Sauce,Original,1unit,Others,Angel Light Soy Sauce Malaysia
+OTR_MAG_E_ORI,Maggi,e cup ayam,Original,1unit,Others,Maggi Maggie cup ayam Malaysia
+OTR_AYA_SAN_ORI,Ayamas,Santan,Original,1unit,Others,Ayamas Santan Malaysia
+OTR_RAS_SAN_ORI,Rasaku,Santan,Original,1unit,Others,Rasaku Santan Malaysia
+DAI_LOT_FUL_ORI,Lotus's,Full Cream Milk,Original,1unit,Dairy,Lotus's Full Cream Milk Malaysia
+DAI_FAR_GRE_ORI,Farm Fresh,Greek yogurt,Original,1unit,Dairy,Farm Fresh Greek yogurt Malaysia
+OTR_MCC_PAP_ORI,McCormick,Paprika Ground,Original,1unit,Others,McCormick Paprika Ground Malaysia
+BEV_ZUS_BUT_ORI,Zus,Buttercreme flavoured Latte,Original,1unit,Beverages,Zus Buttercreme-flavoured Latte Malaysia
+BEV_DUT_SIG_ORI,Dutch Lady,Signature Chocolate,Original,240ml,Beverages,Dutch Lady Signature Chocolate Malaysia
+BEV_KRU_OAT_CHO,Krunchy's,Oat Krunch Dark,Chocolate,1unit,Beverages,Krunchy's Oat Krunch Dark Chocolate Malaysia
+BEV_MAR_YOG_FRE,Marigold,Yogurt Drink Fat,Free Mixed Berries,200g,Beverages,Marigold Yogurt Drink Fat Free Mixed Berries Malaysia
+OTR_IND_SOT_ORI,Indomie,Soto Vegetabls Flavour,Original,1unit,Others,Indomie Soto (Vegetabls) Flavour Malaysia
+OTR_DIF_ORA_ORI,DIFFLAMAB,Orange,Original,6s,Others,DIFFLAMAB Difflamab Orange Malaysia
+OTR_LAC_MOZ_ORI,Lactima,Mozzarella,Original,1unit,Others,Lactima Mozzarella Malaysia
+BEV_CHE_CLA_COF,Chek Hup,Classic 3in1 White,Coffee,1unit,Beverages,Chek Hup Classic 3in1 White Coffee Malaysia
+OTR_NES_MIL_ORI,Nestle,MILO 900 100,Original,1unit,Others,Nestle MILO 900+100 Malaysia
+OTR_NAT_BLE_COO,Naturel,Blend canola sunflower,cooking oil,3kg,Others,Naturel Blend canola & sunflower cooking oil Malaysia
+BEV_YIT_TEN_O,Yit Foh,Tenom Coffee Kopi,O,10g,Beverages,Yit Foh Tenom Coffee Kopi O Malaysia
+BIS_ROM_MAL_ORI,Roma,Malkist BBQ Crackers,Original,105g,Biscuits,Roma Malkist BBQ Crackers Malaysia
+OTR_DAI_COR_ORI,Daisy,Corn oil,Original,1kg,Others,Daisy Corn oil Malaysia
+BEV_ABB_ENS_ORI,Abbott,Ensure Gold,Original,850g,Beverages,Abbott Ensure Gold Malaysia
+OTR_BAS_OLI_ORI,Basso,Olive Oil,Original,1unit,Others,Basso Olive Oil Malaysia
+DAI_SUN_LOW_YOG,Sunglo,Low Fat Greek,Yoghurt,1unit,Dairy,Sunglo Low Fat Greek Yoghurt Malaysia
+SNK_TCD_TEM_ORI,TCD,Tempe Soybean Chips,Original,1unit,Snacks,TCD Tempe! Soybean Chips Malaysia
+OTR_PEA_PIC_ORI,Peace Brand,Pickled Lettuce,Original,185g,Others,Peace Brand Pickled Lettuce Malaysia
+OTR_HON_100_MAN,HoneyWorld,100 Pure Monoflora,Manuka Honey UMF8,1kg,Others,"HoneyWorld 100% Pure Monoflora Manuka Honey, UMF8+ Malaysia"
+BEV_YEO_IMM_ORI,Yeo's,Immuno Soy Milk,Original,380ml,Beverages,Yeo's Immuno Soy Milk Malaysia
+BEV_GSU_PLA_NUT,GSure,Plant based Complete,Nutrition,900g,Beverages,GSure GSure Plant-based Complete Nutrition Malaysia
+BEV_GOO_CHA_ORI,Goodday,Charge,Original,250ml,Beverages,Goodday Charge Malaysia
+BEV_DES_CHO_ORI,Desa,Chocolate Milk,Original,1unit,Beverages,Desa Chocolate Milk Malaysia
+OTR_PRO_CHI_BUT,Prof.Slow,Chia Seed Peanut,Butter,200g,Others,Prof.Slow Chia Seed Peanut Butter Malaysia
+OTR_NUT_COC_ORI,Nutellex,Coconut oil butter,Original,375g,Others,Nutellex Coconut oil butter Malaysia
+CHO_HIG_COR_ORI,Highway,Corned Beef,Original,340g,Chocolate,Highway Highway Corned Beef Malaysia
+BEV_MAY_CHO_ORI,mayora,choki choki,Original,12pack,Beverages,mayora choki choki Malaysia
+OTR_YUP_BUR_ORI,Yupi,Burger Bag,Original,28g,Others,Yupi Yupi Burger Bag Malaysia
+OTR_DR_KLA_ORI,Dr.Oetker,Klassischer Vanille Pudding,Original,1000g,Others,Dr.Oetker Klassischer Vanille Pudding Malaysia
+OTR_SUS_GOO_ORI,susu,Goodday,Original,1unit,Others,susu Goodday Malaysia
+OTR_SAN_XK7_M,Sanuki Udon,XK753 Sanuki Udon,m Halal,200g,Others,Sanuki Udon XK753 Sanuki Udon 200gm - (Halal) Malaysia
+BEV_PHA_VIT_CHO,pharmanutri,vital whey rich,chocolate,30g,Beverages,pharmanutri vital whey rich chocolate Malaysia
+SNK_TRU_POT_ORI,truffle potato chips,potato chips,Original,120g,Snacks,truffle potato chips potato chips Malaysia
+OTR_LEE_VEG_SAU,Lee Shun Hing,Vegetarian Oyster Flavoured,Sauce,765g,Others,Lee Shun Hing Vegetarian Oyster Flavoured Sauce Malaysia
+OTR_AYA_MAC_ORI,Ayam Brand,MACKEREL FILLETS,Original,125g,Others,Ayam Brand MACKEREL FILLETS Malaysia
+OTR_GUA_JIA_PEE,Guangdong Time-honored Brand,JiaoBao Preserved Mandarin,Peel,20g,Others,Guangdong Time-honored Brand JiaoBao Preserved Mandarin Peel Malaysia
+CHO_AYA_BRA_CRE,Ayam,Brand Sweet Corn,Cream Style,425g,Chocolate,Ayam Ayam Brand Sweet Corn Cream Style Malaysia
+OTR_BAI_FRU_ORI,baida,fruit gummy jelly,Original,108g,Others,baida fruit gummy jelly Malaysia
+BEV_MAS_ODE_YAN,Masak masak cek Yana,Odeen Viral Cek,Yana Kimchi,50g,Beverages,Masak masak cek Yana Odeen Viral Cek Yana Kimchi Malaysia
+NOD_SAM_CIN_NOO,Samyang,Cintan Non Fried,Noodles,550g,Noodles,Samyang Cintan Non Fried Noodles Malaysia
+CHO_SUG_NAT_ORI,Sugar Free,Natura,Original,100 pellets,Chocolate,Sugar Free Sugar Free Natura Malaysia
+BEV_DRI_CHR_ORI,Drinho,Chrysanthemum Tea,Original,1l,Beverages,Drinho Chrysanthemum Tea Malaysia
+OTR_FUJ_WHI_ORI,fujibakery,whitesandwich loaf,Original,1,Others,fujibakery whitesandwich loaf Malaysia
+OTR_PEP_MOU_ORI,pepsi,mountain dew hijau,Original,320,Others,pepsi mountain dew hijau Malaysia
+CHO_SNA_PEA_ORI,Snappea,Pea milk unsweetened,Original,1unit,Chocolate,Snappea Pea milk unsweetened Malaysia
+OTR_LAD_CRE_ORI,Lady's Choice,Creamy Peanut Butter,Original,500g,Others,Lady's Choice Creamy Peanut Butter Malaysia
+SNK_TAO_BIG_SEA,Taokaenoi,Big Roll Grilled,Seaweed Roll,3g,Snacks,Taokaenoi Big Roll Grilled Seaweed Roll Malaysia
+BEV_KOK_HOT_HAZ,Kokoo,Hot chocolate with,hazelnut,1unit,Beverages,Kokoo Hot chocolate with hazelnut Malaysia
+OTR_QUA_INS_ORI,Quaker,Instant Oatmeal,Original,1unit,Others,Quaker Quaker Instant Oatmeal Malaysia
+OTR_SEA_BIO_ORI,sea buckthorn,bio herbalike,Original,1,Others,sea buckthorn bio herbalike Malaysia
+OTR_AYA_NOU_ORI,Ayam,Nouilles instantanees crevette,Original,1unit,Others,Ayam Nouilles instantanees crevette Malaysia
+BEV_ROY_PUR_ORI,royce,pure chocolate,Original,1,Beverages,royce Royce pure chocolate Malaysia
+BEV_MOU_DRI_ORI,MOUNTAIN HILL,DRINKING WATER,Original,500ml,Beverages,MOUNTAIN HILL MOUNTAIN HILL DRINKING WATER Malaysia
+OTR_MAH_NAT_PER,MAHKOTA,Nata De Coco,Perisa Laici,1.5kg,Others,MAHKOTA Nata De Coco Perisa Laici Malaysia
+OTR_LAD_THO_ORI,Lady's Choice,Thousand Island Sauce,Original,1unit,Others,Lady's Choice Thousand Island Sauce Malaysia
+OTR_YAR_FAR_ORI,Yarra Farm,Farm fresh yara,Original,1.4kg,Others,Yarra Farm Farm fresh yara 1.4kg Malaysia
+BIS_UNK_SCA_BIS,-,Scallion Cheese Flavour,Biscuits,1,Biscuits,- Scallion Cheese Flavour Biscuits Malaysia
+OTR_PRA_FRE_FAT,Praise,French dressing 99,fat free 25 less sugar,9pcs,Others,Praise French dressing 99% fat free 25% less sugar 9pcs Malaysia
+BEV_YEO_YEO_MEL,Yeos,yeo s Winter,Melon Drink,1unit,Beverages,Yeos yeo's Winter Melon Drink Malaysia
+OTR_GAR_FLU_ORI,Gardenia,Fluffy Buns,Original,280g,Others,Gardenia Fluffy Buns Malaysia
+OTR_OLI_CHO_ORI,Oligo,choco malt calcium,Original,240ml,Others,Oligo Oligo choco malt calcium 240ml Malaysia
+BEV_NES_DAI_ORI,Nestle,Dairy Free Almond,Original,225ml,Beverages,Nestle Dairy Free - Almond Malaysia
+OTR_NES_MAT_GRA,Nestle,Mat Kool Icy,Grape,1unit,Others,Nestle Mat Kool Icy Grape Malaysia
+NOD_MAG_WHO_ORI,Maggi,Wholegrain Chicken,Original,828g,Noodles,Maggi Wholegrain Chicken Malaysia
+BEV_BOH_GRE_ORI,Boh,Green tea latte,Original,1unit,Beverages,Boh Green tea latte Malaysia
+BEV_DEL_MIX_ORI,Delite,Mixed Fruits Drink,Original,1unit,Beverages,Delite Mixed Fruits. Drink Malaysia
+OTR_AYA_THA_ORI,Ayam,Thai yellow curry,Original,185g,Others,Ayam Thai yellow curry Malaysia
+SNK_KER_CHI_ORI,Kerk,Chippy chips,Original,1unit,Snacks,Kerk Chippy chips Malaysia
+OTR_JAC_ROL_BUT,Jack n Jill,Roller Coaster Honey,Butter,1unit,Others,Jack n Jill Roller Coaster Honey Butter Malaysia
+CHO_NON_KAY_ORI,Nona,Kaya,Original,1unit,Chocolate,Nona Kaya Malaysia
+BEV_CHE_3_IPO,ChekHup,3 in 1,Ipoh White Coffee Original,1unit,Beverages,ChekHup 3 in 1 Ipoh White Coffee Original Malaysia
+BEV_UNC_POP_ORI,UNCLE SABA,Poppadoms,Original,35g,Beverages,UNCLE SABA Poppadoms Malaysia
+BEV_PRE_PEA_ORI,Premier Salute,Peach Drinks,Original,750ml,Beverages,Premier Salute Peach Drinks Malaysia
+OTR_GOL_PEA_ORI,gold fish brand,peanut cake,Original,1,Others,gold fish brand peanut cake Malaysia
+SNK_TES_ORI_ORI,Tesco,Original potato chips,Original,1unit,Snacks,Tesco Original potato chips Malaysia
+DAI_NES_STR_ORI,Nestle,Strawberry flavoured milk,Original,1unit,Dairy,Nestle Strawberry flavoured milk Malaysia
+DAI_NES_JUS_FAT,Nestle,Just Milk Low,Fat,1unit,Dairy,Nestle Just Milk Low Fat Malaysia
+OTR_HEI_MED_ORI,Heinz,Mediterranean style beanz,Original,1unit,Others,Heinz Mediterranean style beanz Malaysia
+OTR_SUN_SUS_REN,Sun Luc,Susu Tepung Skim,Rendah Lemak,20g,Others,Sun Luc Susu Tepung Skim Rendah Lemak Malaysia
+SNK_MIS_MIS_ORI,Mission Foods,Mission Tortilla Chips,Original,170g,Snacks,Mission Foods Mission Tortilla Chips Malaysia
+BEV_ROC_PRO_ORI,ROCKY CHOCO,Product,Original,55g,Beverages,ROCKY CHOCO ROCKY CHOCO Malaysia
+BEV_RED_FLA_ORI,RED BULL,FLAVOURED DRINK,Original,250ml,Beverages,RED BULL RED BULL FLAVOURED DRINK Malaysia
+BEV_EMC_MUS_PIE,Emco,Musli Traditional Fruit,Pieces,375g,Beverages,Emco Musli Traditional Fruit Pieces Malaysia
+BEV_GAR_BUT_ORI,Gardenia,Butter Toffee,Original,50g,Beverages,Gardenia Butter Toffee Malaysia
+BEV_V_GOL_ORI,V-SOY,Golden Grain,Original,1000ml,Beverages,V-SOY V-Soy Golden Grain Malaysia
+SNK_MIS_TOR_ORI,Mission,Tortilla chips,Original,170g,Snacks,Mission Tortilla chips Malaysia
+OTR_NES_SER_OIL,Nestle,seri murni cooking,oil,2kg,Others,Nestle seri murni cooking oil 2kg Malaysia
+OTR_V_ORA_ORI,v'asia cosmetic & healthcare,orange fiber xtra,Original,400g,Others,v'asia cosmetic & healthcare orange fiber xtra Malaysia
+SNK_CLE_ORG_CHI,Clearspring,Organic Brown Rice,Chips,1unit,Snacks,Clearspring Organic Brown Rice Chips Malaysia

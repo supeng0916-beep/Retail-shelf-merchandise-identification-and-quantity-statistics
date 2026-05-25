@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Local tool metadata
+.claude/
+$root/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Generated runtime artifacts
+*.db
+*.db-journal
+index/*.index
+index/*.pkl
+index/*.pickle
+
+# Local models and weights
+models/clip-vit-base-patch32-local/
+models/easyocr/
+models/*.engine
+models/*.pt
+yolo26n.pt
+
+# Large local datasets and image libraries
+datasets/
+database/sku_images/
+database/sku_images_backup/
+database/sku_images_focus/
+database/真实货架图/
+
+# One-off generated demo assets
+synthetic_demo_shelf*.jpg
+
+# Coursework artifact not included in boss-facing repo
+SUPENG_0383167_Tutorial2/

@@ -1,0 +1,36 @@
+# ===== 核心推理 =====
+# PyTorch CUDA 版本需单独安装（见 README）：
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1.0
+torchvision>=0.16.0
+
+# YOLO26（Ultralytics 最新稳定版）
+ultralytics>=8.3.0
+
+# ===== 推理加速（备选） =====
+# TensorRT 通过 NVIDIA 官方渠道安装，不走 pip
+
+# ===== 向量搜索 =====
+faiss-gpu>=1.7.4              # GPU 版；无 GPU 可换 faiss-cpu
+
+# ===== API 框架 =====
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+aiosqlite>=0.20.0
+
+# ===== 图像处理 =====
+opencv-python-headless>=4.10.0
+Pillow>=10.3.0
+numpy>=1.26.0
+
+# ===== 工具 =====
+PyYAML>=6.0.1
+loguru>=0.7.2
+requests>=2.32.0
+duckduckgo-search>=6.3.5
+
+# ===== 开发 / 测试 =====
+transformers>=4.41.0
+easyocr>=1.7.1
